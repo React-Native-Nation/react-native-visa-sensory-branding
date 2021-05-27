@@ -1,0 +1,6 @@
+framework module VisaSensoryBranding {
+  umbrella header "VisaSensoryBranding.h"
+
+  export *
+  module * { export * }
+}

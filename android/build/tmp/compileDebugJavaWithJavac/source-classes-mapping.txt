@@ -1,0 +1,8 @@
+com/reactnativevisasensorybranding/BuildConfig.java
+ com.reactnativevisasensorybranding.BuildConfig
+com/reactnativevisasensorybranding/VisaSensoryBrandingModule.java
+ com.reactnativevisasensorybranding.VisaSensoryBrandingModule
+ com.reactnativevisasensorybranding.VisaSensoryBrandingModule$1
+ com.reactnativevisasensorybranding.VisaSensoryBrandingModule$1$1
+com/reactnativevisasensorybranding/VisaSensoryBrandingPackage.java
+ com.reactnativevisasensorybranding.VisaSensoryBrandingPackage

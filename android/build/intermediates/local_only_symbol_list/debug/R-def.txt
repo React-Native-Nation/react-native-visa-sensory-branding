@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+id sensory_branding_view_component
+layout sensory_branding_view
