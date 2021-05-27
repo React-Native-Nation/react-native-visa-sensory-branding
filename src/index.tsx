@@ -1,7 +1,7 @@
 import { NativeModules, Platform } from 'react-native';
 
 type VisaSensoryBrandingType = {
-  show: any
+  show: any;
 };
 
 let VisaSensoryBranding;
