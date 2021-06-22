@@ -50,12 +50,12 @@ public class VisaSensoryBrandingModule extends ReactContextBaseJavaModule {
                     sensoryBrandingComponent.animate(new SensoryBrandingCompletionHandler(){
                     @Override
                     public void onComplete(Error error) {
-                        animation.hide();
+                        animation.cancel();
                         promise.resolve(true);
                     }
                 });
                 } catch (Exception ew) {
-                    animation.hide();
+                    animation.cancel();
                     promise.resolve(false);
                 }
             }
